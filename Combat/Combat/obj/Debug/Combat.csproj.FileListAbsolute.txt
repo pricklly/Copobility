@@ -1,0 +1,8 @@
+E:\Project\Combat\Combat\obj\Debug\Combat.csprojResolveAssemblyReference.cache
+E:\Project\Combat\Combat\obj\Debug\Combat.MainForm.resources
+E:\Project\Combat\Combat\obj\Debug\Combat.csproj.GenerateResource.Cache
+E:\Project\Combat\Combat\bin\Debug\Combat.exe.config
+E:\Project\Combat\Combat\bin\Debug\Combat.exe
+E:\Project\Combat\Combat\bin\Debug\Combat.pdb
+E:\Project\Combat\Combat\obj\Debug\Combat.exe
+E:\Project\Combat\Combat\obj\Debug\Combat.pdb
